@@ -1,0 +1,3 @@
+<resources>
+    <string name="service_description">仅执行系统锁屏操作，不读取屏幕内容，不收集数据。开启后点击桌面“一键息屏”图标即可息屏。</string>
+</resources>
