@@ -1,0 +1,21 @@
+# Local tools, generated files and signing credentials
+/.tools/
+/.signing/
+/build/
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+local.properties
+.env
+/dist/*.idsig
+/dist/*.zip
+/.publish/
+
+# Editor and OS files
+.idea/
+.vscode/
+*.iml
+Thumbs.db
+.DS_Store
